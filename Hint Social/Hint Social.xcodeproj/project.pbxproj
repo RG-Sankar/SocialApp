@@ -16,6 +16,7 @@
 		2554515B2937293500F1A357 /* Hint_SocialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2554515A2937293500F1A357 /* Hint_SocialTests.swift */; };
 		255451652937293500F1A357 /* Hint_SocialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255451642937293500F1A357 /* Hint_SocialUITests.swift */; };
 		255451672937293500F1A357 /* Hint_SocialUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 255451662937293500F1A357 /* Hint_SocialUITestsLaunchTests.swift */; };
+		2579DDDB29372D020054E7A4 /* Dashboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2579DDDA29372D020054E7A4 /* Dashboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		255451602937293500F1A357 /* Hint SocialUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hint SocialUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		255451642937293500F1A357 /* Hint_SocialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hint_SocialUITests.swift; sourceTree = "<group>"; };
 		255451662937293500F1A357 /* Hint_SocialUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hint_SocialUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2579DDDA29372D020054E7A4 /* Dashboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Dashboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				2554514C2937293400F1A357 /* Assets.xcassets */,
 				2554514E2937293400F1A357 /* LaunchScreen.storyboard */,
 				255451512937293400F1A357 /* Info.plist */,
+				2579DDDA29372D020054E7A4 /* Dashboard.storyboard */,
 			);
 			path = "Hint Social";
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 				255451502937293400F1A357 /* LaunchScreen.storyboard in Resources */,
 				2554514D2937293400F1A357 /* Assets.xcassets in Resources */,
 				2554514B2937293200F1A357 /* Main.storyboard in Resources */,
+				2579DDDB29372D020054E7A4 /* Dashboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
